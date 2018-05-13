@@ -1,0 +1,3735 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Amazon Sat">
+    <display-name lang="pt">Amazon Sat</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="pt">Animal Planet HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Aparecida">
+    <display-name lang="pt">Aparecida</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Arte 1">
+    <display-name lang="pt">Arte 1</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Arte 1 HD">
+    <display-name lang="pt">Arte 1 HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Baby TV">
+    <display-name lang="pt">Baby TV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band">
+    <display-name lang="pt">Band</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band HD">
+    <display-name lang="pt">Band HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band News">
+    <display-name lang="pt">Band News</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band News HD">
+    <display-name lang="pt">Band News HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band Sports">
+    <display-name lang="pt">Band Sports</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BIS">
+    <display-name lang="pt">BIS</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Bis HD">
+    <display-name lang="pt">Bis HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Bloomberg HD">
+    <display-name lang="pt">Bloomberg HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Boa Vontade">
+    <display-name lang="pt">Boa vontade</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="pt">Boomerang</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Boomerang HD">
+    <display-name lang="pt">Boomerang HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Canal Sony">
+    <display-name lang="pt">Canal Sony</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal Sony HD">
+    <display-name lang="pt">Canal Sony HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Canção Nova">
+    <display-name lang="pt">Canção Nova</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canção Nova HD">
+    <display-name lang="pt">Canção Nova HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pt">Cartoon Network</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cartoon Network HD">
+    <display-name lang="pt">Cartoon Network HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="pt">Cinemax</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cinemax HD">
+    <display-name lang="pt">Cinemax HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Combate">
+    <display-name lang="pt">Combate</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Combate HD">
+    <display-name lang="pt">Combate HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="pt">Comedy Central</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Comedy Central HD">
+    <display-name lang="pt">Comedy Central HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="pt">Discovery Channel</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Channel HD">
+    <display-name lang="pt">Discovery Channel HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Civilization">
+    <display-name lang="pt">Discovery Civilization</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Civilization HD">
+    <display-name lang="pt">Discovery Civilization HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Kids">
+    <display-name lang="pt">Discovery Kids</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Science HD">
+    <display-name lang="pt">Discovery Science HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Theater">
+    <display-name lang="pt">Discovery Theater</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Turbo">
+    <display-name lang="pt">Discovery Turbo</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Turbo HD">
+    <display-name lang="pt">Discovery Turbo HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery world HD">
+    <display-name lang="pt">Discovery world HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="pt">Disney Channel</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney Channel HD">
+    <display-name lang="pt">Disney Channel HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="pt">Disney Junior</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="pt">Disney XD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="E! Entertainment Television">
+    <display-name lang="pt">E! Entertainment Television</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="E! Entertainment Television HD">
+    <display-name lang="pt">E! Entertainment Television HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="EI MAXX 2 HD">
+    <display-name lang="pt">EI MAXX 2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="EI MAXX HD">
+    <display-name lang="pt">EI MAXX HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="pt">ESPN</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN  HD">
+    <display-name lang="pt">ESPN  HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN +">
+    <display-name lang="pt">ESPN +</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ESPN Brasil">
+    <display-name lang="pt">ESPN Brasil</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN Extra">
+    <display-name lang="pt">ESPN Extra</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Esporte Interativo">
+    <display-name lang="pt">Esporte Interativo</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Esporte Interativo Max 2">
+    <display-name lang="pt">Esporte Interativo Max 2</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Esporte Interativo Max 2 HD">
+    <display-name lang="pt">Esporte Interativo Max 2 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Esporte Interativo BR">
+    <display-name lang="pt">Esporte Interativo BR</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Fish TV">
+    <display-name lang="pt">Fish TV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FOOD NETWORK HD">
+    <display-name lang="pt">FOOD NETWORK HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="pt">FOX</display-name>
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="Fox [Alter]">
+    <display-name lang="pt">Fox [Alter]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="pt">FOX HD</display-name>
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="FOX Life">
+    <display-name lang="pt">FOX Life</display-name>
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="FOX Life HD">
+    <display-name lang="pt">FOX Life HD</display-name>
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="FOX Premium 1">
+    <display-name lang="pt">FOX Premium 1</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="FOX Premium 2">
+    <display-name lang="pt">FOX Premium 2</display-name>
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="Fox News">
+    <display-name lang="pt">Fox News</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Sports">
+    <display-name lang="pt">Fox Sports</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Sports HD">
+    <display-name lang="pt">Fox Sports HD</display-name>
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="Fox Sports 2">
+    <display-name lang="pt">Fox Sports 2</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Sports 2 HD">
+    <display-name lang="pt">Fox Sports 2 HD</display-name>
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="Futura">
+    <display-name lang="pt">Futura</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo Minas">
+    <display-name lang="pt">Globo Minas</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo News">
+    <display-name lang="pt">Globo News</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo RJ">
+    <display-name lang="pt">Globo RJ</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo SP">
+    <display-name lang="pt">Globo SP</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Gloob">
+    <display-name lang="pt">Gloob</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Gloob HD">
+    <display-name lang="pt">Gloob HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="GNT">
+    <display-name lang="pt">GNT</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GNT HD">
+    <display-name lang="pt">GNT HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="H2">
+    <display-name lang="pt">H2</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="H2 HD">
+    <display-name lang="pt">H2 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="pt">HBO 2</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Family">
+    <display-name lang="pt">HBO Family</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Plus">
+    <display-name lang="pt">HBO Plus</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Plus e">
+    <display-name lang="pt">HBO Plus e</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name lang="pt">HBO Signature</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="History Channel">
+    <display-name lang="pt">History Channel</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="History Channel HD">
+    <display-name lang="pt">History Channel HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Hot HD">
+    <display-name lang="pt">Hot HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="ID - Investigacao Discovery">
+    <display-name lang="pt">ID - Investigacao Discovery</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Lifetime">
+    <display-name lang="pt">Lifetime</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Lifetime HD">
+    <display-name lang="pt">Lifetime HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Max [Brazil]">
+    <display-name lang="pt">Max [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Max Prime">
+    <display-name lang="pt">Max Prime</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Max Prime e">
+    <display-name lang="pt">Max Prime e</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Max UP HD">
+    <display-name lang="pt">Max UP HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Megapix">
+    <display-name lang="pt">Megapix</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Megapix HD">
+    <display-name lang="pt">Megapix HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Mix TV">
+    <display-name lang="pt">Mix TV</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="pt">MTV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="MTV HD">
+    <display-name lang="pt">MTV HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Multishow">
+    <display-name lang="pt">Multishow</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Multishow HD">
+    <display-name lang="pt">Multishow HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="pt">National Geographic</display-name>
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="National Geographic HD">
+    <display-name lang="pt">National Geographic HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nat Geo HD">
+    <display-name lang="pt">Nat Geo HD</display-name>
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="Nat Geo Wild">
+    <display-name lang="pt">Nat Geo Wild</display-name>
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="Nat Geo Wild HD">
+    <display-name lang="pt">Nat Geo Wild HD</display-name>
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="NBR">
+    <display-name lang="pt">NBR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="NHK">
+    <display-name lang="pt">NHK</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nick Jr">
+    <display-name lang="pt">Nick Jr</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nick Jr HD">
+    <display-name lang="pt">Nick Jr HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="pt">Nickelodeon</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nickelodeon HD">
+    <display-name lang="pt">Nickelodeon HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="OFF">
+    <display-name lang="pt">OFF</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="OFF HD">
+    <display-name lang="pt">OFF HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Paramount">
+    <display-name lang="pt">Paramount</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Paramount HD">
+    <display-name lang="pt">Paramount HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Play TV">
+    <display-name lang="pt">Play TV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Playboy TV">
+    <display-name lang="pt">Playboy TV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 2">
+    <display-name lang="pt">Premiere 2</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 3">
+    <display-name lang="pt">Premiere 3</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 4">
+    <display-name lang="pt">Premiere 4</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 5">
+    <display-name lang="pt">Premiere 5</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 6">
+    <display-name lang="pt">Premiere 6</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 7">
+    <display-name lang="pt">Premiere 7</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere Clubes">
+    <display-name lang="pt">Premiere Clubes</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Prime Box Brasil HD">
+    <display-name lang="pt">Prime Box Brasil HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Record">
+    <display-name lang="pt">Record</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record News">
+    <display-name lang="pt">Record News</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rede TV">
+    <display-name lang="pt">Rede TV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rede Vida">
+    <display-name lang="pt">Rede Vida</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RIT">
+    <display-name lang="pt">RIT</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Sextreme">
+    <display-name lang="pt">Sextreme</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SexyHot">
+    <display-name lang="pt">SexyHot</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SPACE">
+    <display-name lang="pt">SPACE</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Space HD">
+    <display-name lang="pt">Space HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SporTV">
+    <display-name lang="pt">SporTV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 2">
+    <display-name lang="pt">SporTV 2</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Sportv 2 HD">
+    <display-name lang="pt">Sportv 2 HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SporTV 3">
+    <display-name lang="pt">SporTV 3</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Sportv 3 HD">
+    <display-name lang="pt">Sportv 3 HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SporTV HD">
+    <display-name lang="pt">SporTV HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Studio Universal">
+    <display-name lang="pt">Studio Universal</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Studio Universal HD">
+    <display-name lang="pt">Studio Universal HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Syfy">
+    <display-name lang="pt">Syfy</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Syfy HD">
+    <display-name lang="pt">Syfy HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TBS">
+    <display-name lang="pt">TBS</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TBS HD">
+    <display-name lang="pt">TBS HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="pt">TCM</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Action">
+    <display-name lang="pt">Telecine Action</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Cult">
+    <display-name lang="pt">Telecine Cult</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Fun">
+    <display-name lang="pt">Telecine Fun</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Pipoca">
+    <display-name lang="pt">Telecine</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Premium">
+    <display-name lang="pt">Telecine Premium</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Touch">
+    <display-name lang="pt">Telecine Touch</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Terra Viva">
+    <display-name lang="pt">Terra Viva</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="pt">TLC</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="pt">TNT</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT HD">
+    <display-name lang="pt">TNT HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT Séries">
+    <display-name lang="pt">TNT Séries</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Tooncast">
+    <display-name lang="pt">Tooncast</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TruTV">
+    <display-name lang="pt">TruTV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TruTV HD">
+    <display-name lang="pt">TruTV HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Tv Aparecida">
+    <display-name lang="pt">Tv Aparecida</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Universal Channel">
+    <display-name lang="pt">Universal Channel</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Universal Channel HD">
+    <display-name lang="pt">Universal Channel HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Venus">
+    <display-name lang="pt">Venus</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="VH1 HD [Alter]">
+    <display-name lang="pt">VH1 HD [Alter]</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Vh1 Megahits">
+    <display-name lang="pt">Vh1 Megahits</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Viva">
+    <display-name lang="pt">Viva</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Warner Channel">
+    <display-name lang="pt">Warner Channel</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Warner Channel HD">
+    <display-name lang="pt">Warner Channel HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Woohoo">
+    <display-name lang="pt">Woohoo</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="WooHoo HD">
+    <display-name lang="pt">WooHoo HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20180512213000 -0300" stop="20180512220000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180512220000 -0300" stop="20180512223000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viagens Pela Amazônia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180512223000 -0300" stop="20180512230000 -0300" channel="Amazon Sat">
+    <title lang="pt">Gente do Norte</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180512230000 -0300" stop="20180512233000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórter da Amazônia</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180512233000 -0300" stop="20180513000000 -0300" channel="Amazon Sat">
+    <title lang="pt">Cine Amazon Sat</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180513000000 -0300" stop="20180513000200 -0300" channel="Amazon Sat">
+    <title lang="pt">Hino Nacional</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513000200 -0300" stop="20180513000500 -0300" channel="Amazon Sat">
+    <title lang="pt">Oração da Sagrada Família</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180513000500 -0300" stop="20180513003000 -0300" channel="Amazon Sat">
+    <title lang="pt">De Férias no Sat</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513003000 -0300" stop="20180513010000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180513010000 -0300" stop="20180513013000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513013000 -0300" stop="20180513020000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180513020000 -0300" stop="20180513030000 -0300" channel="Amazon Sat">
+    <title lang="pt">Documentos da Amazônia</title>
+    <category lang="pt">Documentário/Diversos</category>
+  </programme>
+  <programme start="20180513030000 -0300" stop="20180513033000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180513033000 -0300" stop="20180513040000 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513040000 -0300" stop="20180513043000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180513043000 -0300" stop="20180513050000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180513050000 -0300" stop="20180513053000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180513053000 -0300" stop="20180513060000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513060000 -0300" stop="20180513063000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viagens Pela Amazônia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180513063000 -0300" stop="20180513070000 -0300" channel="Amazon Sat">
+    <title lang="pt">Vento Norte</title>
+    <category lang="pt">Documentário/Cultural</category>
+  </programme>
+  <programme start="20180513070000 -0300" stop="20180513073000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórter da Amazônia</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180513073000 -0300" stop="20180513080000 -0300" channel="Amazon Sat">
+    <title lang="pt">Cine Amazon Sat</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180513080000 -0300" stop="20180513090000 -0300" channel="Amazon Sat">
+    <title lang="pt">Missa na TV</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180513090000 -0300" stop="20180513093000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513093000 -0300" stop="20180513100000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180513100000 -0300" stop="20180513110000 -0300" channel="Amazon Sat">
+    <title lang="pt">Documentos da Amazônia</title>
+    <category lang="pt">Documentário/Diversos</category>
+  </programme>
+  <programme start="20180513110000 -0300" stop="20180513120000 -0300" channel="Amazon Sat">
+    <title lang="pt">O Melhor da Rodada</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180513120000 -0300" stop="20180513123000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180513123000 -0300" stop="20180513130000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180513130000 -0300" stop="20180513133000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180513133000 -0300" stop="20180513140000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513140000 -0300" stop="20180513143000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viagens Pela Amazônia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180513143000 -0300" stop="20180513150000 -0300" channel="Amazon Sat">
+    <title lang="pt">Vento Norte</title>
+    <category lang="pt">Documentário/Cultural</category>
+  </programme>
+  <programme start="20180513150000 -0300" stop="20180513153000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórter da Amazônia</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180513153000 -0300" stop="20180513160000 -0300" channel="Amazon Sat">
+    <title lang="pt">Cine Amazon Sat</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180513160000 -0300" stop="20180513163000 -0300" channel="Amazon Sat">
+    <title lang="pt">De Férias no Sat</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513163000 -0300" stop="20180513170000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180513170000 -0300" stop="20180513173000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513173000 -0300" stop="20180513180000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180513180000 -0300" stop="20180513190000 -0300" channel="Amazon Sat">
+    <title lang="pt">Rondoncap</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513190000 -0300" stop="20180513193000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180513193000 -0300" stop="20180513200000 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513200000 -0300" stop="20180513203000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180513203000 -0300" stop="20180513210000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180513210000 -0300" stop="20180513213000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180513213000 -0300" stop="20180513220000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513220000 -0300" stop="20180513230000 -0300" channel="Amazon Sat">
+    <title lang="pt">Acre CAP</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513230000 -0300" stop="20180513233000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórter da Amazônia</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180513233000 -0300" stop="20180514000000 -0300" channel="Amazon Sat">
+    <title lang="pt">Cine Amazon Sat</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180514000000 -0300" stop="20180514000200 -0300" channel="Amazon Sat">
+    <title lang="pt">Hino Nacional</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180514000200 -0300" stop="20180514000500 -0300" channel="Amazon Sat">
+    <title lang="pt">Oração da Sagrada Família</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180514000500 -0300" stop="20180514003000 -0300" channel="Amazon Sat">
+    <title lang="pt">Testemunho da Fé</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180514003000 -0300" stop="20180514010000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180514010000 -0300" stop="20180514013000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180514013000 -0300" stop="20180514020000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180514020000 -0300" stop="20180514030000 -0300" channel="Amazon Sat">
+    <title lang="pt">Documentos da Amazônia</title>
+    <category lang="pt">Documentário/Diversos</category>
+  </programme>
+  <programme start="20180514030000 -0300" stop="20180514033000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180514033000 -0300" stop="20180514040000 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180514040000 -0300" stop="20180514043000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180514043000 -0300" stop="20180514050000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180514050000 -0300" stop="20180514053000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180514053000 -0300" stop="20180514060000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180514060000 -0300" stop="20180514063000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viagens Pela Amazônia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180514063000 -0300" stop="20180514070000 -0300" channel="Amazon Sat">
+    <title lang="pt">Gente do Norte</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180514070000 -0300" stop="20180514073000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórter da Amazônia</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180514073000 -0300" stop="20180514080000 -0300" channel="Amazon Sat">
+    <title lang="pt">Cine Amazon Sat</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180514080000 -0300" stop="20180514083000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180514083000 -0300" stop="20180514093000 -0300" channel="Amazon Sat">
+    <title lang="pt">Dia de Campo na TV</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180514093000 -0300" stop="20180514103000 -0300" channel="Amazon Sat">
+    <title lang="pt">Encantos da Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180514103000 -0300" stop="20180514110000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180514110000 -0300" stop="20180514113000 -0300" channel="Amazon Sat">
+    <title lang="pt">Programa Nobre</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180514113000 -0300" stop="20180514114000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tá em Casa</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180514114000 -0300" stop="20180514115000 -0300" channel="Amazon Sat">
+    <title lang="pt">Banksia Films</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180514115000 -0300" stop="20180514115500 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180514115500 -0300" stop="20180514120000 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180514120000 -0300" stop="20180514130000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180514130000 -0300" stop="20180514133000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180514133000 -0300" stop="20180514143000 -0300" channel="Amazon Sat">
+    <title lang="pt">Conhecer e Aprender</title>
+    <category lang="pt">Variedades/Educativo</category>
+  </programme>
+  <programme start="20180514143000 -0300" stop="20180514150000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180514150000 -0300" stop="20180514160000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180514160000 -0300" stop="20180514163000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180514163000 -0300" stop="20180514173000 -0300" channel="Amazon Sat">
+    <title lang="pt">Dia de Campo na TV</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180514173000 -0300" stop="20180514180000 -0300" channel="Amazon Sat">
+    <title lang="pt">Encantos da Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180514180000 -0300" stop="20180514183000 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180514183000 -0300" stop="20180514190000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180514190000 -0300" stop="20180514193000 -0300" channel="Amazon Sat">
+    <title lang="pt">Programa Nobre</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180514193000 -0300" stop="20180514194000 -0300" channel="Amazon Sat">
+    <title lang="pt">Momento Cine</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180514194000 -0300" stop="20180514195000 -0300" channel="Amazon Sat">
+    <title lang="pt">Eu Sou o Bicho</title>
+    <category lang="pt">Séries/Meio Ambiente</category>
+  </programme>
+  <programme start="20180514195000 -0300" stop="20180514200000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180514200000 -0300" stop="20180514210000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180514210000 -0300" stop="20180514210500 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180514210500 -0300" stop="20180514213000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180514213000 -0300" stop="20180514223000 -0300" channel="Amazon Sat">
+    <title lang="pt">Conhecer e Aprender</title>
+    <category lang="pt">Variedades/Educativo</category>
+  </programme>
+  <programme start="20180514223000 -0300" stop="20180514230000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180514230000 -0300" stop="20180515000000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180515000000 -0300" stop="20180515000200 -0300" channel="Amazon Sat">
+    <title lang="pt">Hino Nacional</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180515000200 -0300" stop="20180515000500 -0300" channel="Amazon Sat">
+    <title lang="pt">Oração da Sagrada Família</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180515000500 -0300" stop="20180515003000 -0300" channel="Amazon Sat">
+    <title lang="pt">Na Festa</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180515003000 -0300" stop="20180515013000 -0300" channel="Amazon Sat">
+    <title lang="pt">Dia de Campo na TV</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180515013000 -0300" stop="20180515023000 -0300" channel="Amazon Sat">
+    <title lang="pt">Encantos da Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180515023000 -0300" stop="20180515030000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180515030000 -0300" stop="20180515033000 -0300" channel="Amazon Sat">
+    <title lang="pt">Programa Nobre</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180515033000 -0300" stop="20180515034000 -0300" channel="Amazon Sat">
+    <title lang="pt">Banksia Films</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180515034000 -0300" stop="20180515035000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180515035000 -0300" stop="20180515040000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórteres da Floresta</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180515040000 -0300" stop="20180515050000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180515050000 -0300" stop="20180515053000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180515053000 -0300" stop="20180515063000 -0300" channel="Amazon Sat">
+    <title lang="pt">Conhecer e Aprender</title>
+    <category lang="pt">Variedades/Educativo</category>
+  </programme>
+  <programme start="20180515063000 -0300" stop="20180515070000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180515070000 -0300" stop="20180515080000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180515080000 -0300" stop="20180515083000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180515083000 -0300" stop="20180515090000 -0300" channel="Amazon Sat">
+    <title lang="pt">Justiça e Cidadania</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20180515090000 -0300" stop="20180515093000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórter da Amazônia</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180515093000 -0300" stop="20180515100000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180515100000 -0300" stop="20180515103000 -0300" channel="Amazon Sat">
+    <title lang="pt">Literatura em foco</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180515103000 -0300" stop="20180515110000 -0300" channel="Amazon Sat">
+    <title lang="pt">Belém 400</title>
+    <category lang="pt">Documentário/Histórico</category>
+  </programme>
+  <programme start="20180515110000 -0300" stop="20180515113000 -0300" channel="Amazon Sat">
+    <title lang="pt">O Lojista na Tv</title>
+    <category lang="pt">Séries/Comunicação</category>
+  </programme>
+  <programme start="20180515113000 -0300" stop="20180515114000 -0300" channel="Amazon Sat">
+    <title lang="pt">Banksia Films</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180515114000 -0300" stop="20180515115000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180515115000 -0300" stop="20180515115500 -0300" channel="Amazon Sat">
+    <title lang="pt">Tá em Casa</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180515115500 -0300" stop="20180515120000 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180515120000 -0300" stop="20180515130000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180515130000 -0300" stop="20180515133000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180515133000 -0300" stop="20180515143000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Mulher</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180515143000 -0300" stop="20180515150000 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180515150000 -0300" stop="20180515160000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180515160000 -0300" stop="20180515163000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180515163000 -0300" stop="20180515170000 -0300" channel="Amazon Sat">
+    <title lang="pt">Justiça e Cidadania</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20180515170000 -0300" stop="20180515173000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórter da Amazônia</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180515173000 -0300" stop="20180515180000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180515180000 -0300" stop="20180515180500 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180515180500 -0300" stop="20180515183000 -0300" channel="Amazon Sat">
+    <title lang="pt">Literatura em foco</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180515183000 -0300" stop="20180515190000 -0300" channel="Amazon Sat">
+    <title lang="pt">Belém 400</title>
+    <category lang="pt">Documentário/Histórico</category>
+  </programme>
+  <programme start="20180515190000 -0300" stop="20180515193000 -0300" channel="Amazon Sat">
+    <title lang="pt">O Lojista na Tv</title>
+    <category lang="pt">Séries/Comunicação</category>
+  </programme>
+  <programme start="20180515193000 -0300" stop="20180515194000 -0300" channel="Amazon Sat">
+    <title lang="pt">Momento Cine</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180515194000 -0300" stop="20180515195000 -0300" channel="Amazon Sat">
+    <title lang="pt">Eu Sou o Bicho</title>
+    <category lang="pt">Séries/Meio Ambiente</category>
+  </programme>
+  <programme start="20180515195000 -0300" stop="20180515200000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180515200000 -0300" stop="20180515210000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180515210000 -0300" stop="20180515210500 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180515210500 -0300" stop="20180515213000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180515213000 -0300" stop="20180515223000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Mulher</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180515223000 -0300" stop="20180515230000 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180515230000 -0300" stop="20180516000000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180516000000 -0300" stop="20180516000200 -0300" channel="Amazon Sat">
+    <title lang="pt">Hino Nacional</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180516000200 -0300" stop="20180516000500 -0300" channel="Amazon Sat">
+    <title lang="pt">Oração da Sagrada Família</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180516000500 -0300" stop="20180516003000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180516003000 -0300" stop="20180516010000 -0300" channel="Amazon Sat">
+    <title lang="pt">Justiça e Cidadania</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20180516010000 -0300" stop="20180516013000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórter da Amazônia</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180516013000 -0300" stop="20180516020000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180516020000 -0300" stop="20180516023000 -0300" channel="Amazon Sat">
+    <title lang="pt">Literatura em foco</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180516023000 -0300" stop="20180516030000 -0300" channel="Amazon Sat">
+    <title lang="pt">Belém 400</title>
+    <category lang="pt">Documentário/Histórico</category>
+  </programme>
+  <programme start="20180516030000 -0300" stop="20180516033000 -0300" channel="Amazon Sat">
+    <title lang="pt">O Lojista na Tv</title>
+    <category lang="pt">Séries/Comunicação</category>
+  </programme>
+  <programme start="20180516033000 -0300" stop="20180516034000 -0300" channel="Amazon Sat">
+    <title lang="pt">Banksia Films</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180516034000 -0300" stop="20180516035000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180516035000 -0300" stop="20180516040000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórteres da Floresta</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180516040000 -0300" stop="20180516050000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180516050000 -0300" stop="20180516053000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180516053000 -0300" stop="20180516063000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Mulher</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180516063000 -0300" stop="20180516070000 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180516070000 -0300" stop="20180516080000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180516080000 -0300" stop="20180516083000 -0300" channel="Amazon Sat">
+    <title lang="pt">Fazendo Esperança</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180516083000 -0300" stop="20180516090000 -0300" channel="Amazon Sat">
+    <title lang="pt">#SemRoteiro Geek</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180516090000 -0300" stop="20180516093000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180516093000 -0300" stop="20180516100000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180516100000 -0300" stop="20180516103000 -0300" channel="Amazon Sat">
+    <title lang="pt">Gente do Norte</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180516103000 -0300" stop="20180516113000 -0300" channel="Amazon Sat">
+    <title lang="pt">Documentos da Amazônia</title>
+    <category lang="pt">Documentário/Diversos</category>
+  </programme>
+  <programme start="20180516113000 -0300" stop="20180516114000 -0300" channel="Amazon Sat">
+    <title lang="pt">Banksia Films</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180516114000 -0300" stop="20180516115000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180516115000 -0300" stop="20180516115500 -0300" channel="Amazon Sat">
+    <title lang="pt">Tá em Casa</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180516115500 -0300" stop="20180516120000 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180516120000 -0300" stop="20180516130000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180516130000 -0300" stop="20180516133000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180516133000 -0300" stop="20180516143000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Empreendedora</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180516143000 -0300" stop="20180516150000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viagens Pela Amazônia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180516150000 -0300" stop="20180516160000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180516160000 -0300" stop="20180516163000 -0300" channel="Amazon Sat">
+    <title lang="pt">Fazendo Esperança</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180516163000 -0300" stop="20180516170000 -0300" channel="Amazon Sat">
+    <title lang="pt">#SemRoteiro Geek</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180516170000 -0300" stop="20180516173000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180516173000 -0300" stop="20180516180000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180516180000 -0300" stop="20180516180500 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180516180500 -0300" stop="20180516183000 -0300" channel="Amazon Sat">
+    <title lang="pt">Gente do Norte</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180516183000 -0300" stop="20180516193000 -0300" channel="Amazon Sat">
+    <title lang="pt">Documentos da Amazônia</title>
+    <category lang="pt">Documentário/Diversos</category>
+  </programme>
+  <programme start="20180516193000 -0300" stop="20180516194000 -0300" channel="Amazon Sat">
+    <title lang="pt">Momento Cine</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180516194000 -0300" stop="20180516195000 -0300" channel="Amazon Sat">
+    <title lang="pt">Eu Sou o Bicho</title>
+    <category lang="pt">Séries/Meio Ambiente</category>
+  </programme>
+  <programme start="20180516195000 -0300" stop="20180516200000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180516200000 -0300" stop="20180516210000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180516210000 -0300" stop="20180516210500 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180516210500 -0300" stop="20180516213000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180516213000 -0300" stop="20180516223000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Empreendedora</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180516223000 -0300" stop="20180516230000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viagens Pela Amazônia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180516230000 -0300" stop="20180517000000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180517000000 -0300" stop="20180517000200 -0300" channel="Amazon Sat">
+    <title lang="pt">Hino Nacional</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517000200 -0300" stop="20180517000500 -0300" channel="Amazon Sat">
+    <title lang="pt">Oração da Sagrada Família</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180517000500 -0300" stop="20180517003000 -0300" channel="Amazon Sat">
+    <title lang="pt">Testemunho da Fé</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180517003000 -0300" stop="20180517010000 -0300" channel="Amazon Sat">
+    <title lang="pt">#SemRoteiro Geek</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517010000 -0300" stop="20180517013000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180517013000 -0300" stop="20180517020000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180517020000 -0300" stop="20180517023000 -0300" channel="Amazon Sat">
+    <title lang="pt">Gente do Norte</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517023000 -0300" stop="20180517033000 -0300" channel="Amazon Sat">
+    <title lang="pt">Documentos da Amazônia</title>
+    <category lang="pt">Documentário/Diversos</category>
+  </programme>
+  <programme start="20180517033000 -0300" stop="20180517034000 -0300" channel="Amazon Sat">
+    <title lang="pt">Banksia Films</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517034000 -0300" stop="20180517035000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180517035000 -0300" stop="20180517040000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórteres da Floresta</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180517040000 -0300" stop="20180517050000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180517050000 -0300" stop="20180517053000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180517053000 -0300" stop="20180517063000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Empreendedora</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517063000 -0300" stop="20180517070000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viagens Pela Amazônia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180517070000 -0300" stop="20180517080000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180517080000 -0300" stop="20180517083000 -0300" channel="Amazon Sat">
+    <title lang="pt">Justiça e Cidadania</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20180517083000 -0300" stop="20180517090000 -0300" channel="Amazon Sat">
+    <title lang="pt">Cine Amazon Sat</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180517090000 -0300" stop="20180517093000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180517093000 -0300" stop="20180517100000 -0300" channel="Amazon Sat">
+    <title lang="pt">Literatura em foco</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180517100000 -0300" stop="20180517103000 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517103000 -0300" stop="20180517113000 -0300" channel="Amazon Sat">
+    <title lang="pt">Mundo Passaporte</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180517113000 -0300" stop="20180517114000 -0300" channel="Amazon Sat">
+    <title lang="pt">Banksia Films</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517114000 -0300" stop="20180517115000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180517115000 -0300" stop="20180517115500 -0300" channel="Amazon Sat">
+    <title lang="pt">Tá em Casa</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180517115500 -0300" stop="20180517120000 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517120000 -0300" stop="20180517130000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180517130000 -0300" stop="20180517133000 -0300" channel="Amazon Sat">
+    <title lang="pt">Belém 400</title>
+    <category lang="pt">Documentário/Histórico</category>
+  </programme>
+  <programme start="20180517133000 -0300" stop="20180517143000 -0300" channel="Amazon Sat">
+    <title lang="pt">Conexão Saúde</title>
+    <category lang="pt">Variedades/Saúde</category>
+  </programme>
+  <programme start="20180517143000 -0300" stop="20180517150000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517150000 -0300" stop="20180517160000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180517160000 -0300" stop="20180517163000 -0300" channel="Amazon Sat">
+    <title lang="pt">Justiça e Cidadania</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20180517163000 -0300" stop="20180517170000 -0300" channel="Amazon Sat">
+    <title lang="pt">Cine Amazon Sat</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180517170000 -0300" stop="20180517173000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180517173000 -0300" stop="20180517180000 -0300" channel="Amazon Sat">
+    <title lang="pt">Literatura em foco</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180517180000 -0300" stop="20180517180500 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517180500 -0300" stop="20180517183000 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517183000 -0300" stop="20180517193000 -0300" channel="Amazon Sat">
+    <title lang="pt">Mundo Passaporte</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180517193000 -0300" stop="20180517194000 -0300" channel="Amazon Sat">
+    <title lang="pt">Momento Cine</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517194000 -0300" stop="20180517195000 -0300" channel="Amazon Sat">
+    <title lang="pt">Eu Sou o Bicho</title>
+    <category lang="pt">Séries/Meio Ambiente</category>
+  </programme>
+  <programme start="20180517195000 -0300" stop="20180517200000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180517200000 -0300" stop="20180517210000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180517210000 -0300" stop="20180517210500 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517210500 -0300" stop="20180517213000 -0300" channel="Amazon Sat">
+    <title lang="pt">Belém 400</title>
+    <category lang="pt">Documentário/Histórico</category>
+  </programme>
+  <programme start="20180517213000 -0300" stop="20180517223000 -0300" channel="Amazon Sat">
+    <title lang="pt">Conexão Saúde</title>
+    <category lang="pt">Variedades/Saúde</category>
+  </programme>
+  <programme start="20180517223000 -0300" stop="20180517230000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517230000 -0300" stop="20180518000000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180518000000 -0300" stop="20180518000200 -0300" channel="Amazon Sat">
+    <title lang="pt">Hino Nacional</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180518000200 -0300" stop="20180518000500 -0300" channel="Amazon Sat">
+    <title lang="pt">Oração da Sagrada Família</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180518000500 -0300" stop="20180518003000 -0300" channel="Amazon Sat">
+    <title lang="pt">Na Festa</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180518003000 -0300" stop="20180518010000 -0300" channel="Amazon Sat">
+    <title lang="pt">Cine Amazon Sat</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180518010000 -0300" stop="20180518013000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180518013000 -0300" stop="20180518020000 -0300" channel="Amazon Sat">
+    <title lang="pt">Literatura em foco</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180518020000 -0300" stop="20180518023000 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180518023000 -0300" stop="20180518033000 -0300" channel="Amazon Sat">
+    <title lang="pt">Mundo Passaporte</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180518033000 -0300" stop="20180518034000 -0300" channel="Amazon Sat">
+    <title lang="pt">Banksia Films</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180518034000 -0300" stop="20180518035000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180518035000 -0300" stop="20180518040000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórteres da Floresta</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180518040000 -0300" stop="20180518050000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180518050000 -0300" stop="20180518053000 -0300" channel="Amazon Sat">
+    <title lang="pt">Belém 400</title>
+    <category lang="pt">Documentário/Histórico</category>
+  </programme>
+  <programme start="20180518053000 -0300" stop="20180518063000 -0300" channel="Amazon Sat">
+    <title lang="pt">Conexão Saúde</title>
+    <category lang="pt">Variedades/Saúde</category>
+  </programme>
+  <programme start="20180518063000 -0300" stop="20180518070000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180518070000 -0300" stop="20180518080000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180518080000 -0300" stop="20180518083000 -0300" channel="Amazon Sat">
+    <title lang="pt">#SemRoteiro Geek</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180518083000 -0300" stop="20180518090000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180518090000 -0300" stop="20180518093000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180518093000 -0300" stop="20180518100000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viagens Pela Amazônia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180518100000 -0300" stop="20180518103000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180518103000 -0300" stop="20180518110000 -0300" channel="Amazon Sat">
+    <title lang="pt">Gente do Norte</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180518110000 -0300" stop="20180518113000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180518113000 -0300" stop="20180518114000 -0300" channel="Amazon Sat">
+    <title lang="pt">Banksia Films</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180518114000 -0300" stop="20180518115000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180518115000 -0300" stop="20180518120000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tá em Casa</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180518120000 -0300" stop="20180518130000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180518130000 -0300" stop="20180518133000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180518133000 -0300" stop="20180518143000 -0300" channel="Amazon Sat">
+    <title lang="pt">Qual Eh?!</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180518143000 -0300" stop="20180518150000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180518150000 -0300" stop="20180518160000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180518160000 -0300" stop="20180518163000 -0300" channel="Amazon Sat">
+    <title lang="pt">#SemRoteiro Geek</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180518163000 -0300" stop="20180518170000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180518170000 -0300" stop="20180518173000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180518173000 -0300" stop="20180518180000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viagens Pela Amazônia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180518180000 -0300" stop="20180518180500 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180518180500 -0300" stop="20180518183000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180518183000 -0300" stop="20180518190000 -0300" channel="Amazon Sat">
+    <title lang="pt">Gente do Norte</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180518190000 -0300" stop="20180518193000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180518193000 -0300" stop="20180518200000 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180518200000 -0300" stop="20180518210000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180518210000 -0300" stop="20180518210500 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180518210500 -0300" stop="20180518213000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180518213000 -0300" stop="20180518223000 -0300" channel="Amazon Sat">
+    <title lang="pt">Qual Eh?!</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180518223000 -0300" stop="20180518230000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180518230000 -0300" stop="20180519000000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180519000000 -0300" stop="20180519000200 -0300" channel="Amazon Sat">
+    <title lang="pt">Hino Nacional</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519000200 -0300" stop="20180519000500 -0300" channel="Amazon Sat">
+    <title lang="pt">Oração da Sagrada Família</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180519000500 -0300" stop="20180519003000 -0300" channel="Amazon Sat">
+    <title lang="pt">Testemunho da Fé</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180519003000 -0300" stop="20180519010000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180519010000 -0300" stop="20180519013000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519013000 -0300" stop="20180519020000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viagens Pela Amazônia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180519020000 -0300" stop="20180519023000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180519023000 -0300" stop="20180519030000 -0300" channel="Amazon Sat">
+    <title lang="pt">Gente do Norte</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519030000 -0300" stop="20180519033000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180519033000 -0300" stop="20180519034000 -0300" channel="Amazon Sat">
+    <title lang="pt">Banksia Films</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519034000 -0300" stop="20180519035000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180519035000 -0300" stop="20180519040000 -0300" channel="Amazon Sat">
+    <title lang="pt">Momento Cine</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519040000 -0300" stop="20180519050000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180519050000 -0300" stop="20180519053000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180519053000 -0300" stop="20180519063000 -0300" channel="Amazon Sat">
+    <title lang="pt">Qual Eh?!</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180519063000 -0300" stop="20180519070000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180519070000 -0300" stop="20180519080000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180519080000 -0300" stop="20180519090000 -0300" channel="Amazon Sat">
+    <title lang="pt">Conexão Saúde</title>
+    <category lang="pt">Variedades/Saúde</category>
+  </programme>
+  <programme start="20180519090000 -0300" stop="20180519093000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519093000 -0300" stop="20180519100000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180519100000 -0300" stop="20180519110000 -0300" channel="Amazon Sat">
+    <title lang="pt">Documentos da Amazônia</title>
+    <category lang="pt">Documentário/Diversos</category>
+  </programme>
+  <programme start="20180519110000 -0300" stop="20180519113000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180519113000 -0300" stop="20180519115500 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519115500 -0300" stop="20180519120000 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519120000 -0300" stop="20180519123000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180519123000 -0300" stop="20180519130000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180519130000 -0300" stop="20180519133000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180519133000 -0300" stop="20180519140000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519140000 -0300" stop="20180519143000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viagens Pela Amazônia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180519143000 -0300" stop="20180519150000 -0300" channel="Amazon Sat">
+    <title lang="pt">Gente do Norte</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519150000 -0300" stop="20180519153000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórter da Amazônia</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180519153000 -0300" stop="20180519160000 -0300" channel="Amazon Sat">
+    <title lang="pt">Cine Amazon Sat</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180519160000 -0300" stop="20180519163000 -0300" channel="Amazon Sat">
+    <title lang="pt">#SemRoteiro Geek</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519163000 -0300" stop="20180519170000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180519170000 -0300" stop="20180519173000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519173000 -0300" stop="20180519180000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180519180000 -0300" stop="20180519180500 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519180500 -0300" stop="20180519190000 -0300" channel="Amazon Sat">
+    <title lang="pt">Documentos da Amazônia</title>
+    <category lang="pt">Documentário/Diversos</category>
+  </programme>
+  <programme start="20180519190000 -0300" stop="20180519193000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180519193000 -0300" stop="20180519200000 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519200000 -0300" stop="20180519203000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180519203000 -0300" stop="20180519210000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180519210000 -0300" stop="20180519210500 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519210500 -0300" stop="20180519213000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180519213000 -0300" stop="20180519220000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519220000 -0300" stop="20180519223000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viagens Pela Amazônia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180519223000 -0300" stop="20180519230000 -0300" channel="Amazon Sat">
+    <title lang="pt">Gente do Norte</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519230000 -0300" stop="20180519233000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórter da Amazônia</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180519233000 -0300" stop="20180520000000 -0300" channel="Amazon Sat">
+    <title lang="pt">Cine Amazon Sat</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180520000000 -0300" stop="20180520000200 -0300" channel="Amazon Sat">
+    <title lang="pt">Hino Nacional</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180520000200 -0300" stop="20180520000500 -0300" channel="Amazon Sat">
+    <title lang="pt">Oração da Sagrada Família</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180520000500 -0300" stop="20180520003000 -0300" channel="Amazon Sat">
+    <title lang="pt">De Férias no Sat</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180520003000 -0300" stop="20180520010000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180520010000 -0300" stop="20180520013000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180520013000 -0300" stop="20180520020000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180520020000 -0300" stop="20180520030000 -0300" channel="Amazon Sat">
+    <title lang="pt">Documentos da Amazônia</title>
+    <category lang="pt">Documentário/Diversos</category>
+  </programme>
+  <programme start="20180520030000 -0300" stop="20180520033000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180520033000 -0300" stop="20180520040000 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180520040000 -0300" stop="20180520043000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180520043000 -0300" stop="20180520050000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180520050000 -0300" stop="20180520053000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180520053000 -0300" stop="20180520060000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180520060000 -0300" stop="20180520063000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viagens Pela Amazônia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180520063000 -0300" stop="20180520070000 -0300" channel="Amazon Sat">
+    <title lang="pt">Vento Norte</title>
+    <category lang="pt">Documentário/Cultural</category>
+  </programme>
+  <programme start="20180520070000 -0300" stop="20180520073000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórter da Amazônia</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180520073000 -0300" stop="20180520080000 -0300" channel="Amazon Sat">
+    <title lang="pt">Cine Amazon Sat</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180520080000 -0300" stop="20180520090000 -0300" channel="Amazon Sat">
+    <title lang="pt">Missa na TV</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180520090000 -0300" stop="20180520093000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180520093000 -0300" stop="20180520100000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180520100000 -0300" stop="20180520110000 -0300" channel="Amazon Sat">
+    <title lang="pt">Documentos da Amazônia</title>
+    <category lang="pt">Documentário/Diversos</category>
+  </programme>
+  <programme start="20180520110000 -0300" stop="20180520120000 -0300" channel="Amazon Sat">
+    <title lang="pt">O Melhor da Rodada</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180520120000 -0300" stop="20180520123000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180520123000 -0300" stop="20180520130000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180520130000 -0300" stop="20180520133000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180520133000 -0300" stop="20180520140000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180520140000 -0300" stop="20180520143000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viagens Pela Amazônia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180520143000 -0300" stop="20180520150000 -0300" channel="Amazon Sat">
+    <title lang="pt">Vento Norte</title>
+    <category lang="pt">Documentário/Cultural</category>
+  </programme>
+  <programme start="20180520150000 -0300" stop="20180520153000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórter da Amazônia</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180520153000 -0300" stop="20180520160000 -0300" channel="Amazon Sat">
+    <title lang="pt">Cine Amazon Sat</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180520160000 -0300" stop="20180520163000 -0300" channel="Amazon Sat">
+    <title lang="pt">De Férias no Sat</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180520163000 -0300" stop="20180520170000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180520170000 -0300" stop="20180520173000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180520173000 -0300" stop="20180520180000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180520180000 -0300" stop="20180520190000 -0300" channel="Amazon Sat">
+    <title lang="pt">Rondoncap</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180520190000 -0300" stop="20180520193000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180520193000 -0300" stop="20180520200000 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180520200000 -0300" stop="20180520203000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180520203000 -0300" stop="20180520210000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180520210000 -0300" stop="20180520213000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180520213000 -0300" stop="20180520220000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180520220000 -0300" stop="20180520230000 -0300" channel="Amazon Sat">
+    <title lang="pt">Acre CAP</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180520230000 -0300" stop="20180520233000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórter da Amazônia</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180520233000 -0300" stop="20180521000000 -0300" channel="Amazon Sat">
+    <title lang="pt">Cine Amazon Sat</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180521000000 -0300" stop="20180521000200 -0300" channel="Amazon Sat">
+    <title lang="pt">Hino Nacional</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180521000200 -0300" stop="20180521000500 -0300" channel="Amazon Sat">
+    <title lang="pt">Oração da Sagrada Família</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180521000500 -0300" stop="20180521003000 -0300" channel="Amazon Sat">
+    <title lang="pt">Testemunho da Fé</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180521003000 -0300" stop="20180521010000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180521010000 -0300" stop="20180521013000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180521013000 -0300" stop="20180521020000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180521020000 -0300" stop="20180521030000 -0300" channel="Amazon Sat">
+    <title lang="pt">Documentos da Amazônia</title>
+    <category lang="pt">Documentário/Diversos</category>
+  </programme>
+  <programme start="20180521030000 -0300" stop="20180521033000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180521033000 -0300" stop="20180521040000 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180521040000 -0300" stop="20180521043000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180521043000 -0300" stop="20180521050000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180521050000 -0300" stop="20180521053000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180521053000 -0300" stop="20180521060000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180521060000 -0300" stop="20180521063000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viagens Pela Amazônia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180521063000 -0300" stop="20180521070000 -0300" channel="Amazon Sat">
+    <title lang="pt">Gente do Norte</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180521070000 -0300" stop="20180521073000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórter da Amazônia</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180521073000 -0300" stop="20180521080000 -0300" channel="Amazon Sat">
+    <title lang="pt">Cine Amazon Sat</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180521080000 -0300" stop="20180521083000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180521083000 -0300" stop="20180521093000 -0300" channel="Amazon Sat">
+    <title lang="pt">Dia de Campo na TV</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180521093000 -0300" stop="20180521103000 -0300" channel="Amazon Sat">
+    <title lang="pt">Encantos da Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180521103000 -0300" stop="20180521110000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180521110000 -0300" stop="20180521113000 -0300" channel="Amazon Sat">
+    <title lang="pt">Programa Nobre</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180521113000 -0300" stop="20180521114000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tá em Casa</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180521114000 -0300" stop="20180521115000 -0300" channel="Amazon Sat">
+    <title lang="pt">Banksia Films</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180521115000 -0300" stop="20180521115500 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180521115500 -0300" stop="20180521120000 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180521120000 -0300" stop="20180521130000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180521130000 -0300" stop="20180521133000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180521133000 -0300" stop="20180521143000 -0300" channel="Amazon Sat">
+    <title lang="pt">Conhecer e Aprender</title>
+    <category lang="pt">Variedades/Educativo</category>
+  </programme>
+  <programme start="20180521143000 -0300" stop="20180521150000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180521150000 -0300" stop="20180521160000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180521160000 -0300" stop="20180521163000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180521163000 -0300" stop="20180521173000 -0300" channel="Amazon Sat">
+    <title lang="pt">Dia de Campo na TV</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180521173000 -0300" stop="20180521180000 -0300" channel="Amazon Sat">
+    <title lang="pt">Encantos da Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180521180000 -0300" stop="20180521183000 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180521183000 -0300" stop="20180521190000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180521190000 -0300" stop="20180521193000 -0300" channel="Amazon Sat">
+    <title lang="pt">Programa Nobre</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180521193000 -0300" stop="20180521194000 -0300" channel="Amazon Sat">
+    <title lang="pt">Momento Cine</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180521194000 -0300" stop="20180521195000 -0300" channel="Amazon Sat">
+    <title lang="pt">Eu Sou o Bicho</title>
+    <category lang="pt">Séries/Meio Ambiente</category>
+  </programme>
+  <programme start="20180521195000 -0300" stop="20180521200000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180521200000 -0300" stop="20180521210000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180521210000 -0300" stop="20180521210500 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180521210500 -0300" stop="20180521213000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180521213000 -0300" stop="20180521223000 -0300" channel="Amazon Sat">
+    <title lang="pt">Conhecer e Aprender</title>
+    <category lang="pt">Variedades/Educativo</category>
+  </programme>
+  <programme start="20180521223000 -0300" stop="20180521230000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180521230000 -0300" stop="20180522000000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180522000000 -0300" stop="20180522000200 -0300" channel="Amazon Sat">
+    <title lang="pt">Hino Nacional</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522000200 -0300" stop="20180522000500 -0300" channel="Amazon Sat">
+    <title lang="pt">Oração da Sagrada Família</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180522000500 -0300" stop="20180522003000 -0300" channel="Amazon Sat">
+    <title lang="pt">Na Festa</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522003000 -0300" stop="20180522013000 -0300" channel="Amazon Sat">
+    <title lang="pt">Dia de Campo na TV</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522013000 -0300" stop="20180522023000 -0300" channel="Amazon Sat">
+    <title lang="pt">Encantos da Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522023000 -0300" stop="20180522030000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522030000 -0300" stop="20180522033000 -0300" channel="Amazon Sat">
+    <title lang="pt">Programa Nobre</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522033000 -0300" stop="20180522034000 -0300" channel="Amazon Sat">
+    <title lang="pt">Banksia Films</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522034000 -0300" stop="20180522035000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180522035000 -0300" stop="20180522040000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórteres da Floresta</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180522040000 -0300" stop="20180522050000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180522050000 -0300" stop="20180522053000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180522053000 -0300" stop="20180522063000 -0300" channel="Amazon Sat">
+    <title lang="pt">Conhecer e Aprender</title>
+    <category lang="pt">Variedades/Educativo</category>
+  </programme>
+  <programme start="20180522063000 -0300" stop="20180522070000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180522070000 -0300" stop="20180522080000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180522080000 -0300" stop="20180522083000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522083000 -0300" stop="20180522090000 -0300" channel="Amazon Sat">
+    <title lang="pt">Justiça e Cidadania</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20180522090000 -0300" stop="20180522093000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórter da Amazônia</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180522093000 -0300" stop="20180522100000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180522100000 -0300" stop="20180522103000 -0300" channel="Amazon Sat">
+    <title lang="pt">Literatura em foco</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180522103000 -0300" stop="20180522110000 -0300" channel="Amazon Sat">
+    <title lang="pt">Belém 400</title>
+    <category lang="pt">Documentário/Histórico</category>
+  </programme>
+  <programme start="20180522110000 -0300" stop="20180522113000 -0300" channel="Amazon Sat">
+    <title lang="pt">O Lojista na Tv</title>
+    <category lang="pt">Séries/Comunicação</category>
+  </programme>
+  <programme start="20180522113000 -0300" stop="20180522114000 -0300" channel="Amazon Sat">
+    <title lang="pt">Banksia Films</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522114000 -0300" stop="20180522115000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180522115000 -0300" stop="20180522115500 -0300" channel="Amazon Sat">
+    <title lang="pt">Tá em Casa</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180522115500 -0300" stop="20180522120000 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522120000 -0300" stop="20180522130000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180522130000 -0300" stop="20180522133000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180522133000 -0300" stop="20180522143000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Mulher</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522143000 -0300" stop="20180522150000 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522150000 -0300" stop="20180522160000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180522160000 -0300" stop="20180522163000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522163000 -0300" stop="20180522170000 -0300" channel="Amazon Sat">
+    <title lang="pt">Justiça e Cidadania</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20180522170000 -0300" stop="20180522173000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórter da Amazônia</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180522173000 -0300" stop="20180522180000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180522180000 -0300" stop="20180522180500 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522180500 -0300" stop="20180522183000 -0300" channel="Amazon Sat">
+    <title lang="pt">Literatura em foco</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180522183000 -0300" stop="20180522190000 -0300" channel="Amazon Sat">
+    <title lang="pt">Belém 400</title>
+    <category lang="pt">Documentário/Histórico</category>
+  </programme>
+  <programme start="20180522190000 -0300" stop="20180522193000 -0300" channel="Amazon Sat">
+    <title lang="pt">O Lojista na Tv</title>
+    <category lang="pt">Séries/Comunicação</category>
+  </programme>
+  <programme start="20180522193000 -0300" stop="20180522194000 -0300" channel="Amazon Sat">
+    <title lang="pt">Momento Cine</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522194000 -0300" stop="20180522195000 -0300" channel="Amazon Sat">
+    <title lang="pt">Eu Sou o Bicho</title>
+    <category lang="pt">Séries/Meio Ambiente</category>
+  </programme>
+  <programme start="20180522195000 -0300" stop="20180522200000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180522200000 -0300" stop="20180522210000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180522210000 -0300" stop="20180522210500 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522210500 -0300" stop="20180522213000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180522213000 -0300" stop="20180522223000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Mulher</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522223000 -0300" stop="20180522230000 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180522230000 -0300" stop="20180523000000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180523000000 -0300" stop="20180523000200 -0300" channel="Amazon Sat">
+    <title lang="pt">Hino Nacional</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180523000200 -0300" stop="20180523000500 -0300" channel="Amazon Sat">
+    <title lang="pt">Oração da Sagrada Família</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180523000500 -0300" stop="20180523003000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180523003000 -0300" stop="20180523010000 -0300" channel="Amazon Sat">
+    <title lang="pt">Justiça e Cidadania</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20180523010000 -0300" stop="20180523013000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórter da Amazônia</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180523013000 -0300" stop="20180523020000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180523020000 -0300" stop="20180523023000 -0300" channel="Amazon Sat">
+    <title lang="pt">Literatura em foco</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180523023000 -0300" stop="20180523030000 -0300" channel="Amazon Sat">
+    <title lang="pt">Belém 400</title>
+    <category lang="pt">Documentário/Histórico</category>
+  </programme>
+  <programme start="20180523030000 -0300" stop="20180523033000 -0300" channel="Amazon Sat">
+    <title lang="pt">O Lojista na Tv</title>
+    <category lang="pt">Séries/Comunicação</category>
+  </programme>
+  <programme start="20180523033000 -0300" stop="20180523034000 -0300" channel="Amazon Sat">
+    <title lang="pt">Banksia Films</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180523034000 -0300" stop="20180523035000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180523035000 -0300" stop="20180523040000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórteres da Floresta</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180523040000 -0300" stop="20180523050000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180523050000 -0300" stop="20180523053000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180523053000 -0300" stop="20180523063000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Mulher</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180523063000 -0300" stop="20180523070000 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180523070000 -0300" stop="20180523080000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180523080000 -0300" stop="20180523083000 -0300" channel="Amazon Sat">
+    <title lang="pt">Fazendo Esperança</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180523083000 -0300" stop="20180523090000 -0300" channel="Amazon Sat">
+    <title lang="pt">#SemRoteiro Geek</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180523090000 -0300" stop="20180523093000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180523093000 -0300" stop="20180523100000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180523100000 -0300" stop="20180523103000 -0300" channel="Amazon Sat">
+    <title lang="pt">Gente do Norte</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180523103000 -0300" stop="20180523113000 -0300" channel="Amazon Sat">
+    <title lang="pt">Documentos da Amazônia</title>
+    <category lang="pt">Documentário/Diversos</category>
+  </programme>
+  <programme start="20180523113000 -0300" stop="20180523114000 -0300" channel="Amazon Sat">
+    <title lang="pt">Banksia Films</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180523114000 -0300" stop="20180523115000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180523115000 -0300" stop="20180523115500 -0300" channel="Amazon Sat">
+    <title lang="pt">Tá em Casa</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180523115500 -0300" stop="20180523120000 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180523120000 -0300" stop="20180523130000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180523130000 -0300" stop="20180523133000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180523133000 -0300" stop="20180523143000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Empreendedora</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180523143000 -0300" stop="20180523150000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viagens Pela Amazônia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180523150000 -0300" stop="20180523160000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180523160000 -0300" stop="20180523163000 -0300" channel="Amazon Sat">
+    <title lang="pt">Fazendo Esperança</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180523163000 -0300" stop="20180523170000 -0300" channel="Amazon Sat">
+    <title lang="pt">#SemRoteiro Geek</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180523170000 -0300" stop="20180523173000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180523173000 -0300" stop="20180523180000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180523180000 -0300" stop="20180523180500 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180523180500 -0300" stop="20180523183000 -0300" channel="Amazon Sat">
+    <title lang="pt">Gente do Norte</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180523183000 -0300" stop="20180523193000 -0300" channel="Amazon Sat">
+    <title lang="pt">Documentos da Amazônia</title>
+    <category lang="pt">Documentário/Diversos</category>
+  </programme>
+  <programme start="20180523193000 -0300" stop="20180523194000 -0300" channel="Amazon Sat">
+    <title lang="pt">Momento Cine</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180523194000 -0300" stop="20180523195000 -0300" channel="Amazon Sat">
+    <title lang="pt">Eu Sou o Bicho</title>
+    <category lang="pt">Séries/Meio Ambiente</category>
+  </programme>
+  <programme start="20180523195000 -0300" stop="20180523200000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180523200000 -0300" stop="20180523210000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180523210000 -0300" stop="20180523210500 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180523210500 -0300" stop="20180523213000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180523213000 -0300" stop="20180523223000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Empreendedora</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180523223000 -0300" stop="20180523230000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viagens Pela Amazônia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180523230000 -0300" stop="20180524000000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180524000000 -0300" stop="20180524000200 -0300" channel="Amazon Sat">
+    <title lang="pt">Hino Nacional</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180524000200 -0300" stop="20180524000500 -0300" channel="Amazon Sat">
+    <title lang="pt">Oração da Sagrada Família</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180524000500 -0300" stop="20180524003000 -0300" channel="Amazon Sat">
+    <title lang="pt">Testemunho da Fé</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180524003000 -0300" stop="20180524010000 -0300" channel="Amazon Sat">
+    <title lang="pt">#SemRoteiro Geek</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180524010000 -0300" stop="20180524013000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180524013000 -0300" stop="20180524020000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180524020000 -0300" stop="20180524023000 -0300" channel="Amazon Sat">
+    <title lang="pt">Gente do Norte</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180524023000 -0300" stop="20180524033000 -0300" channel="Amazon Sat">
+    <title lang="pt">Documentos da Amazônia</title>
+    <category lang="pt">Documentário/Diversos</category>
+  </programme>
+  <programme start="20180524033000 -0300" stop="20180524034000 -0300" channel="Amazon Sat">
+    <title lang="pt">Banksia Films</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180524034000 -0300" stop="20180524035000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180524035000 -0300" stop="20180524040000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórteres da Floresta</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180524040000 -0300" stop="20180524050000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180524050000 -0300" stop="20180524053000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180524053000 -0300" stop="20180524063000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Empreendedora</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180524063000 -0300" stop="20180524070000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viagens Pela Amazônia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180524070000 -0300" stop="20180524080000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180524080000 -0300" stop="20180524083000 -0300" channel="Amazon Sat">
+    <title lang="pt">Justiça e Cidadania</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20180524083000 -0300" stop="20180524090000 -0300" channel="Amazon Sat">
+    <title lang="pt">Cine Amazon Sat</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180524090000 -0300" stop="20180524093000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180524093000 -0300" stop="20180524100000 -0300" channel="Amazon Sat">
+    <title lang="pt">Literatura em foco</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180524100000 -0300" stop="20180524103000 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180524103000 -0300" stop="20180524113000 -0300" channel="Amazon Sat">
+    <title lang="pt">Mundo Passaporte</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180524113000 -0300" stop="20180524114000 -0300" channel="Amazon Sat">
+    <title lang="pt">Banksia Films</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180524114000 -0300" stop="20180524115000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180524115000 -0300" stop="20180524115500 -0300" channel="Amazon Sat">
+    <title lang="pt">Tá em Casa</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180524115500 -0300" stop="20180524120000 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180524120000 -0300" stop="20180524130000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180524130000 -0300" stop="20180524133000 -0300" channel="Amazon Sat">
+    <title lang="pt">Belém 400</title>
+    <category lang="pt">Documentário/Histórico</category>
+  </programme>
+  <programme start="20180524133000 -0300" stop="20180524143000 -0300" channel="Amazon Sat">
+    <title lang="pt">Conexão Saúde</title>
+    <category lang="pt">Variedades/Saúde</category>
+  </programme>
+  <programme start="20180524143000 -0300" stop="20180524150000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180524150000 -0300" stop="20180524160000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180524160000 -0300" stop="20180524163000 -0300" channel="Amazon Sat">
+    <title lang="pt">Justiça e Cidadania</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20180524163000 -0300" stop="20180524170000 -0300" channel="Amazon Sat">
+    <title lang="pt">Cine Amazon Sat</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180524170000 -0300" stop="20180524173000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180524173000 -0300" stop="20180524180000 -0300" channel="Amazon Sat">
+    <title lang="pt">Literatura em foco</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180524180000 -0300" stop="20180524180500 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180524180500 -0300" stop="20180524183000 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180524183000 -0300" stop="20180524193000 -0300" channel="Amazon Sat">
+    <title lang="pt">Mundo Passaporte</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180524193000 -0300" stop="20180524194000 -0300" channel="Amazon Sat">
+    <title lang="pt">Momento Cine</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180524194000 -0300" stop="20180524195000 -0300" channel="Amazon Sat">
+    <title lang="pt">Eu Sou o Bicho</title>
+    <category lang="pt">Séries/Meio Ambiente</category>
+  </programme>
+  <programme start="20180524195000 -0300" stop="20180524200000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180524200000 -0300" stop="20180524210000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180524210000 -0300" stop="20180524210500 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180524210500 -0300" stop="20180524213000 -0300" channel="Amazon Sat">
+    <title lang="pt">Belém 400</title>
+    <category lang="pt">Documentário/Histórico</category>
+  </programme>
+  <programme start="20180524213000 -0300" stop="20180524223000 -0300" channel="Amazon Sat">
+    <title lang="pt">Conexão Saúde</title>
+    <category lang="pt">Variedades/Saúde</category>
+  </programme>
+  <programme start="20180524223000 -0300" stop="20180524230000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180524230000 -0300" stop="20180525000000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180525000000 -0300" stop="20180525000200 -0300" channel="Amazon Sat">
+    <title lang="pt">Hino Nacional</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180525000200 -0300" stop="20180525000500 -0300" channel="Amazon Sat">
+    <title lang="pt">Oração da Sagrada Família</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180525000500 -0300" stop="20180525003000 -0300" channel="Amazon Sat">
+    <title lang="pt">Na Festa</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180525003000 -0300" stop="20180525010000 -0300" channel="Amazon Sat">
+    <title lang="pt">Cine Amazon Sat</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180525010000 -0300" stop="20180525013000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180525013000 -0300" stop="20180525020000 -0300" channel="Amazon Sat">
+    <title lang="pt">Literatura em foco</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180525020000 -0300" stop="20180525023000 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180525023000 -0300" stop="20180525033000 -0300" channel="Amazon Sat">
+    <title lang="pt">Mundo Passaporte</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180525033000 -0300" stop="20180525034000 -0300" channel="Amazon Sat">
+    <title lang="pt">Banksia Films</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180525034000 -0300" stop="20180525035000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180525035000 -0300" stop="20180525040000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórteres da Floresta</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180525040000 -0300" stop="20180525050000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180525050000 -0300" stop="20180525053000 -0300" channel="Amazon Sat">
+    <title lang="pt">Belém 400</title>
+    <category lang="pt">Documentário/Histórico</category>
+  </programme>
+  <programme start="20180525053000 -0300" stop="20180525063000 -0300" channel="Amazon Sat">
+    <title lang="pt">Conexão Saúde</title>
+    <category lang="pt">Variedades/Saúde</category>
+  </programme>
+  <programme start="20180525063000 -0300" stop="20180525070000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180525070000 -0300" stop="20180525080000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180525080000 -0300" stop="20180525083000 -0300" channel="Amazon Sat">
+    <title lang="pt">#SemRoteiro Geek</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180525083000 -0300" stop="20180525090000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180525090000 -0300" stop="20180525093000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180525093000 -0300" stop="20180525100000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viagens Pela Amazônia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180525100000 -0300" stop="20180525103000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180525103000 -0300" stop="20180525110000 -0300" channel="Amazon Sat">
+    <title lang="pt">Gente do Norte</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180525110000 -0300" stop="20180525113000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180525113000 -0300" stop="20180525114000 -0300" channel="Amazon Sat">
+    <title lang="pt">Banksia Films</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180525114000 -0300" stop="20180525115000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180525115000 -0300" stop="20180525120000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tá em Casa</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180525120000 -0300" stop="20180525130000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180525130000 -0300" stop="20180525133000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180525133000 -0300" stop="20180525143000 -0300" channel="Amazon Sat">
+    <title lang="pt">Qual Eh?!</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180525143000 -0300" stop="20180525150000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180525150000 -0300" stop="20180525160000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180525160000 -0300" stop="20180525163000 -0300" channel="Amazon Sat">
+    <title lang="pt">#SemRoteiro Geek</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180525163000 -0300" stop="20180525170000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180525170000 -0300" stop="20180525173000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180525173000 -0300" stop="20180525180000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viagens Pela Amazônia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180525180000 -0300" stop="20180525180500 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180525180500 -0300" stop="20180525183000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180525183000 -0300" stop="20180525190000 -0300" channel="Amazon Sat">
+    <title lang="pt">Gente do Norte</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180525190000 -0300" stop="20180525193000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180525193000 -0300" stop="20180525200000 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180525200000 -0300" stop="20180525210000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180525210000 -0300" stop="20180525210500 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180525210500 -0300" stop="20180525213000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180525213000 -0300" stop="20180525223000 -0300" channel="Amazon Sat">
+    <title lang="pt">Qual Eh?!</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180525223000 -0300" stop="20180525230000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180525230000 -0300" stop="20180526000000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180526000000 -0300" stop="20180526000200 -0300" channel="Amazon Sat">
+    <title lang="pt">Hino Nacional</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180526000200 -0300" stop="20180526000500 -0300" channel="Amazon Sat">
+    <title lang="pt">Oração da Sagrada Família</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180526000500 -0300" stop="20180526003000 -0300" channel="Amazon Sat">
+    <title lang="pt">Testemunho da Fé</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180526003000 -0300" stop="20180526010000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180526010000 -0300" stop="20180526013000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180526013000 -0300" stop="20180526020000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viagens Pela Amazônia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180526020000 -0300" stop="20180526023000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180526023000 -0300" stop="20180526030000 -0300" channel="Amazon Sat">
+    <title lang="pt">Gente do Norte</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180526030000 -0300" stop="20180526033000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180526033000 -0300" stop="20180526034000 -0300" channel="Amazon Sat">
+    <title lang="pt">Banksia Films</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180526034000 -0300" stop="20180526035000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180526035000 -0300" stop="20180526040000 -0300" channel="Amazon Sat">
+    <title lang="pt">Momento Cine</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180526040000 -0300" stop="20180526050000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180526050000 -0300" stop="20180526053000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180526053000 -0300" stop="20180526063000 -0300" channel="Amazon Sat">
+    <title lang="pt">Qual Eh?!</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180526063000 -0300" stop="20180526070000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180526070000 -0300" stop="20180526080000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180526080000 -0300" stop="20180526090000 -0300" channel="Amazon Sat">
+    <title lang="pt">Conexão Saúde</title>
+    <category lang="pt">Variedades/Saúde</category>
+  </programme>
+  <programme start="20180526090000 -0300" stop="20180526093000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180526093000 -0300" stop="20180526100000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180526100000 -0300" stop="20180526110000 -0300" channel="Amazon Sat">
+    <title lang="pt">Documentos da Amazônia</title>
+    <category lang="pt">Documentário/Diversos</category>
+  </programme>
+  <programme start="20180526110000 -0300" stop="20180526113000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180526113000 -0300" stop="20180526115500 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180526115500 -0300" stop="20180526120000 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180526120000 -0300" stop="20180526123000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180526123000 -0300" stop="20180526130000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180526130000 -0300" stop="20180526133000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180526133000 -0300" stop="20180526140000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180526140000 -0300" stop="20180526143000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viagens Pela Amazônia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180526143000 -0300" stop="20180526150000 -0300" channel="Amazon Sat">
+    <title lang="pt">Gente do Norte</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180526150000 -0300" stop="20180526153000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórter da Amazônia</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180526153000 -0300" stop="20180526160000 -0300" channel="Amazon Sat">
+    <title lang="pt">Cine Amazon Sat</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180526160000 -0300" stop="20180526163000 -0300" channel="Amazon Sat">
+    <title lang="pt">#SemRoteiro Geek</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180526163000 -0300" stop="20180526170000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180526170000 -0300" stop="20180526173000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180526173000 -0300" stop="20180526180000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180526180000 -0300" stop="20180526180500 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180526180500 -0300" stop="20180526190000 -0300" channel="Amazon Sat">
+    <title lang="pt">Documentos da Amazônia</title>
+    <category lang="pt">Documentário/Diversos</category>
+  </programme>
+  <programme start="20180526190000 -0300" stop="20180526193000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180526193000 -0300" stop="20180526200000 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180526200000 -0300" stop="20180526203000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180526203000 -0300" stop="20180526210000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180526210000 -0300" stop="20180526210500 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180526210500 -0300" stop="20180526213000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180526213000 -0300" stop="20180526220000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180526220000 -0300" stop="20180526223000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viagens Pela Amazônia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180526223000 -0300" stop="20180526230000 -0300" channel="Amazon Sat">
+    <title lang="pt">Gente do Norte</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180526230000 -0300" stop="20180526233000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórter da Amazônia</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180526233000 -0300" stop="20180527000000 -0300" channel="Amazon Sat">
+    <title lang="pt">Cine Amazon Sat</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180527000000 -0300" stop="20180527000200 -0300" channel="Amazon Sat">
+    <title lang="pt">Hino Nacional</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180527000200 -0300" stop="20180527000500 -0300" channel="Amazon Sat">
+    <title lang="pt">Oração da Sagrada Família</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180527000500 -0300" stop="20180527003000 -0300" channel="Amazon Sat">
+    <title lang="pt">De Férias no Sat</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180527003000 -0300" stop="20180527010000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180527010000 -0300" stop="20180527013000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180527013000 -0300" stop="20180527020000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180527020000 -0300" stop="20180527030000 -0300" channel="Amazon Sat">
+    <title lang="pt">Documentos da Amazônia</title>
+    <category lang="pt">Documentário/Diversos</category>
+  </programme>
+  <programme start="20180527030000 -0300" stop="20180527033000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180527033000 -0300" stop="20180527040000 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180527040000 -0300" stop="20180527043000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180527043000 -0300" stop="20180527050000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180527050000 -0300" stop="20180527053000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180527053000 -0300" stop="20180527060000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180527060000 -0300" stop="20180527063000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viagens Pela Amazônia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180527063000 -0300" stop="20180527070000 -0300" channel="Amazon Sat">
+    <title lang="pt">Vento Norte</title>
+    <category lang="pt">Documentário/Cultural</category>
+  </programme>
+  <programme start="20180527070000 -0300" stop="20180527073000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórter da Amazônia</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180527073000 -0300" stop="20180527080000 -0300" channel="Amazon Sat">
+    <title lang="pt">Cine Amazon Sat</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180527080000 -0300" stop="20180527090000 -0300" channel="Amazon Sat">
+    <title lang="pt">Missa na TV</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180527090000 -0300" stop="20180527093000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180527093000 -0300" stop="20180527100000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180527100000 -0300" stop="20180527110000 -0300" channel="Amazon Sat">
+    <title lang="pt">Documentos da Amazônia</title>
+    <category lang="pt">Documentário/Diversos</category>
+  </programme>
+  <programme start="20180527110000 -0300" stop="20180527120000 -0300" channel="Amazon Sat">
+    <title lang="pt">O Melhor da Rodada</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180527120000 -0300" stop="20180527123000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180527123000 -0300" stop="20180527130000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180527130000 -0300" stop="20180527133000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180527133000 -0300" stop="20180527140000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180527140000 -0300" stop="20180527143000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viagens Pela Amazônia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180527143000 -0300" stop="20180527150000 -0300" channel="Amazon Sat">
+    <title lang="pt">Vento Norte</title>
+    <category lang="pt">Documentário/Cultural</category>
+  </programme>
+  <programme start="20180527150000 -0300" stop="20180527153000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórter da Amazônia</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180527153000 -0300" stop="20180527160000 -0300" channel="Amazon Sat">
+    <title lang="pt">Cine Amazon Sat</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180527160000 -0300" stop="20180527163000 -0300" channel="Amazon Sat">
+    <title lang="pt">De Férias no Sat</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180527163000 -0300" stop="20180527170000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180527170000 -0300" stop="20180527173000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180527173000 -0300" stop="20180527180000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180527180000 -0300" stop="20180527190000 -0300" channel="Amazon Sat">
+    <title lang="pt">Rondoncap</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180527190000 -0300" stop="20180527193000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180527193000 -0300" stop="20180527200000 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180527200000 -0300" stop="20180527203000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180527203000 -0300" stop="20180527210000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180527210000 -0300" stop="20180527213000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180527213000 -0300" stop="20180527220000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180527220000 -0300" stop="20180527230000 -0300" channel="Amazon Sat">
+    <title lang="pt">Acre CAP</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180527230000 -0300" stop="20180527233000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórter da Amazônia</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180527233000 -0300" stop="20180528000000 -0300" channel="Amazon Sat">
+    <title lang="pt">Cine Amazon Sat</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180528000000 -0300" stop="20180528000200 -0300" channel="Amazon Sat">
+    <title lang="pt">Hino Nacional</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180528000200 -0300" stop="20180528000500 -0300" channel="Amazon Sat">
+    <title lang="pt">Oração da Sagrada Família</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180528000500 -0300" stop="20180528003000 -0300" channel="Amazon Sat">
+    <title lang="pt">Testemunho da Fé</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180528003000 -0300" stop="20180528010000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180528010000 -0300" stop="20180528013000 -0300" channel="Amazon Sat">
+    <title lang="pt">Norte Rural</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180528013000 -0300" stop="20180528020000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180528020000 -0300" stop="20180528030000 -0300" channel="Amazon Sat">
+    <title lang="pt">Documentos da Amazônia</title>
+    <category lang="pt">Documentário/Diversos</category>
+  </programme>
+  <programme start="20180528030000 -0300" stop="20180528033000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180528033000 -0300" stop="20180528040000 -0300" channel="Amazon Sat">
+    <title lang="pt">Pesca na Veia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180528040000 -0300" stop="20180528043000 -0300" channel="Amazon Sat">
+    <title lang="pt">Sabores da Amazônia</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20180528043000 -0300" stop="20180528050000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estação Turismo</title>
+    <category lang="pt">Variedades/Turismo</category>
+  </programme>
+  <programme start="20180528050000 -0300" stop="20180528053000 -0300" channel="Amazon Sat">
+    <title lang="pt">Baquara Team</title>
+    <category lang="pt">Esporte/Pesca</category>
+  </programme>
+  <programme start="20180528053000 -0300" stop="20180528060000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180528060000 -0300" stop="20180528063000 -0300" channel="Amazon Sat">
+    <title lang="pt">Viagens Pela Amazônia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180528063000 -0300" stop="20180528070000 -0300" channel="Amazon Sat">
+    <title lang="pt">Gente do Norte</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180528070000 -0300" stop="20180528073000 -0300" channel="Amazon Sat">
+    <title lang="pt">Repórter da Amazônia</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180528073000 -0300" stop="20180528080000 -0300" channel="Amazon Sat">
+    <title lang="pt">Cine Amazon Sat</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180528080000 -0300" stop="20180528083000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180528083000 -0300" stop="20180528093000 -0300" channel="Amazon Sat">
+    <title lang="pt">Dia de Campo na TV</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180528093000 -0300" stop="20180528103000 -0300" channel="Amazon Sat">
+    <title lang="pt">Encantos da Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180528103000 -0300" stop="20180528110000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180528110000 -0300" stop="20180528113000 -0300" channel="Amazon Sat">
+    <title lang="pt">Programa Nobre</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180528113000 -0300" stop="20180528114000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tá em Casa</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180528114000 -0300" stop="20180528115000 -0300" channel="Amazon Sat">
+    <title lang="pt">Banksia Films</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180528115000 -0300" stop="20180528115500 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180528115500 -0300" stop="20180528120000 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180528120000 -0300" stop="20180528130000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180528130000 -0300" stop="20180528133000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180528133000 -0300" stop="20180528143000 -0300" channel="Amazon Sat">
+    <title lang="pt">Conhecer e Aprender</title>
+    <category lang="pt">Variedades/Educativo</category>
+  </programme>
+  <programme start="20180528143000 -0300" stop="20180528150000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180528150000 -0300" stop="20180528160000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180528160000 -0300" stop="20180528163000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20180528163000 -0300" stop="20180528173000 -0300" channel="Amazon Sat">
+    <title lang="pt">Dia de Campo na TV</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180528173000 -0300" stop="20180528180000 -0300" channel="Amazon Sat">
+    <title lang="pt">Encantos da Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180528180000 -0300" stop="20180528183000 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180528183000 -0300" stop="20180528190000 -0300" channel="Amazon Sat">
+    <title lang="pt">Expedição Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180528190000 -0300" stop="20180528193000 -0300" channel="Amazon Sat">
+    <title lang="pt">Programa Nobre</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180528193000 -0300" stop="20180528194000 -0300" channel="Amazon Sat">
+    <title lang="pt">Momento Cine</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180528194000 -0300" stop="20180528195000 -0300" channel="Amazon Sat">
+    <title lang="pt">Eu Sou o Bicho</title>
+    <category lang="pt">Séries/Meio Ambiente</category>
+  </programme>
+  <programme start="20180528195000 -0300" stop="20180528200000 -0300" channel="Amazon Sat">
+    <title lang="pt">Meditação</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180528200000 -0300" stop="20180528210000 -0300" channel="Amazon Sat">
+    <title lang="pt">Estúdio Sat</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180528210000 -0300" stop="20180528210500 -0300" channel="Amazon Sat">
+    <title lang="pt">Hora Amazônia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180528210500 -0300" stop="20180528213000 -0300" channel="Amazon Sat">
+    <title lang="pt">Galeria</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180528213000 -0300" stop="20180528223000 -0300" channel="Amazon Sat">
+    <title lang="pt">Conhecer e Aprender</title>
+    <category lang="pt">Variedades/Educativo</category>
+  </programme>
+  <programme start="20180528223000 -0300" stop="20180528230000 -0300" channel="Amazon Sat">
+    <title lang="pt">Trilhando a História</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20180528230000 -0300" stop="20180529000000 -0300" channel="Amazon Sat">
+    <title lang="pt">Amazônia Interativa na TV</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+</tv>
